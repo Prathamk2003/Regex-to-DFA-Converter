@@ -1,5 +1,6 @@
 # Regex-to-DFA-Converter
 
+
 This project provides a Streamlit web application that converts regular expressions into their corresponding Nondeterministic Finite Automata (NFA) and Deterministic Finite Automata (DFA) representations. It's a helpful tool for understanding how regular expressions are processed by finite automata.
 
 ✨ Features
